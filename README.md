@@ -1,2 +1,2 @@
 # Yomester
-An LLM powered Whatsapp Chatbot feeds on user data
+An LLM powered Telegram Chatbot feeds on user data
